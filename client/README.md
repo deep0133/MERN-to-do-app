@@ -1,6 +1,4 @@
-# Frontend Mentor - Todo app solution
-
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+# MERN - Todo app
 
 ## Table of contents
 
@@ -26,17 +24,11 @@ Users should be able to:
 - Clear all completed todos
 - Toggle light and dark mode
 
-### Links
-
-- Solution URL: [https://github.com/deep0133/todo-app.git](https://github.com/deep0133/todo-app.git)
-- Live Site URL: [https://todosolution.netlify.app/](https://todosolution.netlify.app/)
-
 ## My process
 
 - ReactJS Vite Setup
-- Building the Responsive UI
+- Building the Responsive UI Using Tailwind Css
 - Adding Functionality
-- Deployment and Finalization:
 
 ### Built with
 
@@ -48,7 +40,3 @@ Users should be able to:
 - [Tailwind](https://tailwindcss.com/docs/installation/using-postcss) - CSS Framework
 - [React](https://reactjs.org/) - JS library
 - [vite](https://vitejs.dev/guide/) - Optimized Build Tool
-
-## Author
-
-- Frontend Mentor - [@deep0133](https://www.frontendmentor.io/profile/deep0133)
